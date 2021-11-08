@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://metrics.lecoq.io/CkeWMX?template=classic&config.timezone=Asia%2FShanghai"
 </div>
-<div style="float:left">
-  <div align="center">
+<div aligh="center">
+  <div style="float:left">
   <img height="138px" src="https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true"
 </div>  
  
