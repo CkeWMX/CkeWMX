@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true"
 </div>  
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CkeWMX&theme=dark&layout=compact">  
+</div>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CkeWMX&theme=dark&layout=compact)
