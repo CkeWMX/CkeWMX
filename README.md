@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 </div>
   
 <div align="center">
-<div style="float:left">
+<div style="display:inline">
   <img height="138px" src="https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true"
 </div>  
-<div>
+<div style="display:inline">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CkeWMX&theme=dark&layout=compact">  
 </div>
   
