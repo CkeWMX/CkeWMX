@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://metrics.lecoq.io/CkeWMX?template=classic&config.timezone=Asia%2FShanghai"
 </div>
+  
 <div align="center">
-  <img src="138px" src="https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true"
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true"
 </div>  
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true)
