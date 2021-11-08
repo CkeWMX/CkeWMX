@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
   <img src="https://metrics.lecoq.io/CkeWMX?template=classic"
 </div>
   
