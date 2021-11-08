@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <img src="https://metrics.lecoq.io/CkeWMX?template=classic&config.timezone=Asia%2FShanghai"
 </div>
-<div aligh="center">
-  <div style="float:left">
+  
+<div align="center">
+<div style="float:left">
   <img height="138px" src="https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true"
 </div>  
- 
-<div style="float:right">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CkeWMX&theme=dark&layout=compact">  
 </div>
   
