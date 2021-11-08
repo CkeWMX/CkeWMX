@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/CkeWMX?template=classic&config.timezone=Asia%2FShanghai"
+  <img src="https://metrics.lecoq.io/CkeWMX?template=classic"
 </div>
   
 <div align="center">
