@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://metrics.lecoq.io/CkeWMX?template=classic"
 </div>
   
-<div align="center">
+<div align="center" style="height:140px;width:701px;">
   <div style="display:inline-block;Float:left;">
     <img height="138px" src="https://github-readme-stats.vercel.app/api?username=CkeWMX&show_icons=true&theme=dark&count_private=true">
   </div>  
