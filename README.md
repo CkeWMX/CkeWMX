@@ -18,10 +18,8 @@
   <a href="https://space.bilibili.com/321813614/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=CkeWMX" /></div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
 
 
 
@@ -66,9 +64,9 @@
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/CkeWMX/photos/images/202108300310676.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CkeWMX&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/CkeWMX/photos/images/202108300312623.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </p>
 
 <!-- metrics 基础资料 -->
@@ -116,84 +114,4 @@
 </td>
 </tr>
 </table>
-
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-  
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    156 commits    █████████░░░░░░░░░░░░░░░░   39.1% 
-🌃 Evening    155 commits    █████████░░░░░░░░░░░░░░░░   38.85% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
-Tuesday      68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-Wednesday    100 commits    ██████░░░░░░░░░░░░░░░░░░░   25.06% 
-Thursday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Friday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
-Saturday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Sunday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.54%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   11 hrs 31 mins      ██████████████████████░░░   89.32% 
-HTML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-CSV/TSV                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-🔥 Editors: 
-PyCharm                  11 hrs 37 mins      ██████████████████████░░░   90.19% 
-VS Code                  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.81%
-
-💻 Operating System: 
-Windows                  12 hrs 53 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 09/11/2021
-<!--END_SECTION:waka-->
-
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /></div>
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
-
-
-
-# 🤝 Social
-
-<!-- BiliBili和CSDN数据 -->
-<div align="center">
-  <a href="https://space.bilibili.com/448488855/"><img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/></a>
-  <a href="https://blog.csdn.net/weixin_50915462"><img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/></a>
-</div>
 
