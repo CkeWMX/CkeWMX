@@ -70,7 +70,7 @@
 </p>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/CkeWMX/CkeWMX/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://metrics.lecoq.io/CkeWMX?template=classic&config.timezone=Asia%2FShanghai"/></div>
 <br>
 
 <!-- GitHub奖杯🏆 -->
