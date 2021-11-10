@@ -41,19 +41,22 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![计算机视觉](https://img.shields.io/badge/-计算机视觉-oringe?style=flat-square&logo=计算机视觉)
 ![数据可视化](https://img.shields.io/badge/-数据可视化-E34F26?style=flat-square&logo=数据可视化&logoColor=white)
+
+
 🧠 计划学习:
 
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 🧰 常用的工具:
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![PyCharm](https://img.shields.io/badge/-PyCharm-pink?style=flat-square&logo=PyCharm)
+![SublimeText](https://img.shields.io/badge/-SublimeText-pink?style=flat-square&logo=SublimeText)
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
